@@ -8,14 +8,14 @@
 
 ### 🧠 Why I'm Leveling Up
 
-1. 💰 **Pengen banyak duit**  
-   Gue pengen punya penghasilan yang cukup buat hidup layak, bantu keluarga, dan punya kebebasan finansial.
+💰 Want to Earn More
+I’m aiming for a solid income — enough to live comfortably, support my family, and eventually reach financial freedom.
 
-2. 🌍 **Pengen kerja dari mana aja (Work From Anywhere)**  
-   Gak mau selamanya ke kantor dan kejebak rutinitas. Gue pengen kerja dari mana aja, lebih fleksibel, dan lebih deket sama keluarga.
+🌍 Want to Work from Anywhere (WFA)
+I don’t want to be stuck in an office forever. I’m looking for more flexibility so I can work from anywhere and spend more quality time with my loved ones.
 
-3. 🔒 **Pengen punya pekerjaan yang awet & relevan**  
-   Gue mau skill gue tetep dibutuhkan 5–10 tahun ke depan. Gak mau ketinggalan zaman atau stuck selamanya.
+🔒 Want a Career That’s Future-Proof
+I want to build skills that stay relevant for the next 5–10 years. No more feeling stuck or left behind by the tech world.
 
 ---
 
