@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Rian 👋
 
-<!--
-**rianarta/rianarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Developer | Belajar AI & Freelance  
+📚 Currently exploring Spring Boot, Python ML, and Remote Work  
+💼 Open for collaboration & freelance projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Why I'm Leveling Up
+
+1. 💰 **Pengen banyak duit**  
+   Gue pengen punya penghasilan yang cukup buat hidup layak, bantu keluarga, dan punya kebebasan finansial.
+
+2. 🌍 **Pengen kerja dari mana aja (Work From Anywhere)**  
+   Gak mau selamanya ke kantor dan kejebak rutinitas. Gue pengen kerja dari mana aja, lebih fleksibel, dan lebih deket sama keluarga.
+
+3. 🔒 **Pengen punya pekerjaan yang awet & relevan**  
+   Gue mau skill gue tetep dibutuhkan 5–10 tahun ke depan. Gak mau ketinggalan zaman atau stuck selamanya.
+
+---
+
+### 📫 Let's Connect!
+- GitHub: [github.com/rianarta](https://github.com/rianarta)
+- LinkedIn: [linkedin.com/in/rianartaprahesa](https://www.linkedin.com/in/rianartaprahesa)
